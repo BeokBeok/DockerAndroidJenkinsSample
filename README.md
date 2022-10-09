@@ -1,5 +1,5 @@
 # DockerAndroidJenkinsSample
-Docker와 Jenkins를 활용한 안드로이드 빌드 환경 구축
+Docker와 Jenkins를 활용한 안드로이드 빌드 환경 구축 샘플
 ## 주의사항
 1. M1인 경우, Docker의 환경을 `linux/amd64`로 해주어야 함
     - M1에서는 안드로이드 emulator를 지원하지 않아, build-tool이 설치되지 않음
